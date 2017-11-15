@@ -1,0 +1,17 @@
+{
+    "name": "IntoBike_Balance_Control",
+    "version": "1.0.0",
+    "keywords": "balance",
+    "description": "IntoBike 小车平衡控制",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/IntoBike_Balance_Control.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
